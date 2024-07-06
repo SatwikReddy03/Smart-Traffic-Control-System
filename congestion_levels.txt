@@ -1,0 +1,3 @@
+low 25
+medium 45
+high 65
